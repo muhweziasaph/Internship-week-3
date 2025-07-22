@@ -1,16 +1,19 @@
+# Node modules
 node_modules/
-# OS-specific fileS
+# OS generated files
+.DS_Store
 Thumbs.db
-# Log files
-*.log
-# Editor-specific files
+# VSCode settings 
 .vscode/
-# Build artifacts
+# Logs
+*.log
+# Environment/secret files 
+.env
+# Compiled or cache files
+*.class
+*.pyc
+*.swp
+*.bak
+# Build directories 
 dist/
 build/
-# Env or config files 
-.env
-# Backup files
-*~
-*.bak
-*.tmp
