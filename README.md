@@ -1,7 +1,7 @@
 # Internship-week-3 at Zentrix African Technology Institute Nakawa
 This is my third week  internship GitHub repository, week 3 report attached .
-## Project:
-Continuing with personal homepage, applying JavaScript basics and DOM manipulation
+## Projects:
+simple calculator in javascript and continuing with personal homepage applying JavaScript basics and DOM manipulation
 ## Objectives
 - Understand JavaScript syntax, variables, data types, and operators.
 - Learn and apply functions, conditionals, loops, and arrays.
@@ -16,7 +16,7 @@ Continuing with personal homepage, applying JavaScript basics and DOM manipulati
 - visual studio code and live server
 - Git & GitHub
 ## How to View
-- clone the repository and open index.html in any web browser
+- clone the repository and open calculator.html or index.html in any web browser
 - or after cloning , use visual studio code with live server extension to open the file.
 ## Author
 INTERNEE MUHWEZI ASAPH
