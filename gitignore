@@ -1,0 +1,16 @@
+node_modules/
+# OS-specific fileS
+Thumbs.db
+# Log files
+*.log
+# Editor-specific files
+.vscode/
+# Build artifacts
+dist/
+build/
+# Env or config files 
+.env
+# Backup files
+*~
+*.bak
+*.tmp
